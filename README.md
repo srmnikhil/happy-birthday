@@ -22,11 +22,9 @@ A fun, interactive website that celebrates birthdays with colorful animations, c
 
 ## **Screen Recording**
 
-<video width="600" controls autoplay loop muted>
-  <source src="assets/birthday.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+<div align="center">
+  <img src="assets/birthday.gif" width="600" alt="Happy Birthday Animation">
+</div>
 ---
 
 ## **Celebrate in Style**
