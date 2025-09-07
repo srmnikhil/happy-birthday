@@ -25,6 +25,7 @@ A fun, interactive website that celebrates birthdays with colorful animations, c
 <div align="center">
   <img src="assets/birthday.gif" width="600" alt="Happy Birthday Animation">
 </div>
+
 ---
 
 ## **Celebrate in Style**
